@@ -1,6 +1,6 @@
 {
   "name": "donevent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it is a event listener which listen when the typing is done.",
   "main": "dist/index.js",
   "scripts": {
